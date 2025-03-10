@@ -1,4 +1,4 @@
-# Pokémon Search App
+# GetMyPokemon
 
 A React-based fun web application that allows users to search for Pokémon and view detailed information about them.
 
